@@ -112,3 +112,43 @@ Write a Java program to print total number of days in a month using switch case.
 Write a Java program to check whether an alphabet is vowel or consonant using switch case.
 Write a Java program to check whether a number is even or odd using switch case.
 Write a Java program to create Simple Calculator using switch case.based on arithmetic symbol call
+
+Array::::
+Write a program to read n elements into an array and print them.
+Write a program to print array elements in reverse order.
+Write a program to find the sum of array elements.
+Write a program to find the average of elements.
+Write a program to find the maximum element.
+Write a program to find the minimum element.
+Write a program to count even and odd numbers.
+Write a program to search an element using linear search.
+Write a program to copy elements from one array to another.
+Write a program to find the second largest element.
+Write a program to find the second smallest element.
+Write a program to remove duplicate elements.
+Write a program to print unique elements.
+Write a program to count frequency of each element.
+Write a program to reverse the array without using another array.
+
+
+Write a program to declare a 2D array and initialize it with user input.
+Write a program to initialize a matrix with predefined values and print it.
+Write a program to find the number of rows and columns in a matrix.
+Write a program to print a particular row given by the user.
+Write a program to print a particular column given by the user.
+Write a program to print the matrix elements in row-wise order.
+Write a program to print the matrix elements in column-wise order.
+Write a program to print matrix elements in reverse row-wise order.
+Write a program to print the main diagonal elements of a matrix.
+Write a program to print the secondary diagonal elements.
+Write a program to print both diagonals.
+Write a program to print matrix elements in reverse column-wise order.
+Write a program to add two matrices.
+Write a program to multiply two matrices.
+Write a program to find the transpose of a matrix.
+Write a program to print upper triangular matrix.
+Write a program to print lower triangular matrix.
+Write a program to print boundary elements of a matrix.
+Write a program to print matrix in spiral order.
+Write a program to print matrix in zigzag (wave) form row-wise.
+Write a program to find the sum of main diagonal.
