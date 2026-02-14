@@ -153,4 +153,7 @@ Write a program to print boundary elements of a matrix.
 Write a program to print matrix in spiral order.
 Write a program to print matrix in zigzag (wave) form row-wise.
 Write a program to find the sum of main diagonal.
+Write a program to interchange diagonals of a matrix.
+Write a program to check Symmetric matrix.
+Write a program to check Identity matrix.
 Write a program to Rotate Matrix 90° Clockwise (In-place).
